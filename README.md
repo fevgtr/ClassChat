@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## ClassChat is Buliding
 
-You can use the [editor on GitHub](https://github.com/fevgtr/ClassChat/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am use the [editor onuliding GitHub](https://github.com/fevgtr/ClassChat/edit/master/README.md) to maintain and preview the content for my website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Jekyll](https://jekyllrb.com/) 
 
 ### Markdown
 
