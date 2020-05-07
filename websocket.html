@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>ClassChat Inside Preview</title>
     <meta charset="UTF-8">
     <script type="text/javascript">
         if(window.WebSocket){
             var webSocket = new WebSocket("ws://0.0.0.0:9502");
             webSocket.onopen = function (event) {
-                //webSocket.send("Hello,WebSocket!");
+                webSocket.send("Hello,WebSocket!");
             };
             webSocket.onmessage = function (event) {
                 var content = document.getElementById('content');
